@@ -1,0 +1,6 @@
+[core]
+    remote = local
+['remote "storage"']
+    url = /tmp/dvcstore
+['remote "local"']
+    url = C:\Users\joaop\dvcstore
